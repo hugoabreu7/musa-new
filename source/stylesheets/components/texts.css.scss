@@ -1,0 +1,46 @@
+h1, h2, h3, h4 {
+  font-family: "Oswald", sans-serif, "Helvetica", "sans-serif";
+  font-size: 1.6em !important;
+}
+
+h2, h3, h4 {
+  font-size: 1.6em !important;
+  padding-bottom: 4vh;
+}
+
+p {
+  font-family: "Source Sans Pro", sans-serif, "Helvetica", "sans-serif";
+  font-size: 1.2em;
+  padding-bottom: 2vh;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.7em;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.main-title {
+  padding-bottom: 30vh;
+  font-size: 2.2em !important;
+}
+
+.teaser {
+  font-size: 1em;
+  padding-bottom: 8vh;
+}
+
+.section-title {
+  color: white;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  padding: 0px 12px;
+  line-height: 1.6;
+}
+
+.section-description {
+  padding-top: 10vh;
+}
