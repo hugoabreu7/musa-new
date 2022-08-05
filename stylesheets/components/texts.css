@@ -1,5 +1,5 @@
 h1, h2, h3, h4 {
-  font-family: "Oswald", sans-serif, "Helvetica", "sans-serif";
+  font-family: 'Oswald', 'Roboto', sans-serif;
   font-size: 1.6em !important; }
 
 h2, h3, h4 {
@@ -7,7 +7,7 @@ h2, h3, h4 {
   padding-bottom: 4vh; }
 
 p {
-  font-family: "Source Sans Pro", sans-serif, "Helvetica", "sans-serif";
+  font-family: 'Lato', 'Roboto', sans-serif;
   font-size: 1.2em;
   padding-bottom: 2vh; }
 
@@ -20,7 +20,8 @@ a {
 
 .main-title {
   padding-bottom: 30vh;
-  font-size: 2.2em !important; }
+  font-size: 2.2em !important;
+  letter-spacing: 0.2rem; }
 
 .teaser {
   font-size: 1em;
@@ -34,16 +35,40 @@ a {
   line-height: 1.6;
   font-size: 2.2em !important; }
 
+.section-description-first {
+  padding: 8vh 4vh 0vh 4vh;
+  margin-bottom: 0px; }
+
 .section-description {
-  padding: 10vh 4vh 4vh 4vh; }
+  padding: 4vh 4vh 0vh 4vh;
+  margin-bottom: 0px; }
+
+.section-description-last {
+  padding: 4vh; }
 
 .footer {
   font-size: 0.8em;
   text-align: center;
   padding: 6vh 0px 0px 0px; }
 
-li {
-  padding-bottom: 10px; }
+.li-title {
+  list-style: none;
+  font-weight: 600; }
+
+.li-desc {
+  padding-bottom: 16px;
+  list-style: none; }
+
+.last {
+  padding-bottom: 0px !important; }
 
 ul {
   margin: 0px; }
+
+.isolated-text {
+  margin-bottom: 0px; }
+
+.caption {
+  display: block;
+  text-align: center;
+  padding: 2vh 0vh 8vh 0vh; }
