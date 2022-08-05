@@ -78,7 +78,8 @@ a {
 }
 
 ul {
-  margin: 0px;
+  margin: 0px !important;
+  padding-left: 0px !important;
 }
 
 .isolated-text {
@@ -94,5 +95,6 @@ ul {
 @media screen and (max-width: 959px) {
   ul {
     padding: 6px !important;
+    margin-bottom: 6vh !important;
   }
 }
