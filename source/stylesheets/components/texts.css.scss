@@ -90,3 +90,9 @@ ul {
     text-align: center;
     padding: 2vh 0vh 8vh 0vh;
 }
+
+@media screen and (max-width: 959px) {
+  ul {
+    padding: 6px !important;
+  }
+}
