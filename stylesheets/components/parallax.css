@@ -22,21 +22,21 @@
   justify-content: center; }
 
 .parallax-product {
-  background-image: -webkit-gradient, linear, left top, left bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1659603465/Lina.jpg);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.3))), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1659603465/Lina.jpg);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 100%), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1659603465/Lina.jpg); }
+  background-image: -webkit-gradient, linear, left top, left bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1663625003/Lina_1.jpg);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.3))), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1663625003/Lina_1.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 100%), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1663625003/Lina_1.jpg); }
 
 .parallax-cta {
-  background-image: -webkit-gradient, linear, left top, left bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1659605934/Ranma.jpg);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.3))), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1659605934/Ranma.jpg);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 100%), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1659605934/Ranma.jpg); }
+  background-image: -webkit-gradient, linear, left top, left bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1663625003/Ranma_1.jpg);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.3))), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1663625003/Ranma_1.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 100%), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1663625003/Ranma_1.jpg); }
 
 @media screen and (max-width: 959px) {
   .parallax-product {
-    background-image: -webkit-gradient, linear, left top, left bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1659722238/Bulma.jpg);
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.3))), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1659722238/Bulma.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 100%), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1659722238/Bulma.jpg); }
+    background-image: -webkit-gradient, linear, left top, left bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1663624716/Lina_1-2.jpg);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.3))), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1663624716/Lina_1-2.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 100%), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1663624716/Lina_1-2.jpg); }
   .parallax-cta {
-    background-image: -webkit-gradient, linear, left top, left bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1659605934/Ranma.jpg);
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.3))), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1659605934/Ranma.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 100%), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1659605934/Ranma.jpg); } }
+    background-image: -webkit-gradient, linear, left top, left bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1663624716/Ranma_1-2.jpg);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.3))), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1663624716/Ranma_1-2.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 100%), url(https://res.cloudinary.com/dsbz0g917/image/upload/v1663624716/Ranma_1-2.jpg); } }
