@@ -4,13 +4,13 @@
    opacity:0;
    animation:fadeIn ease-in 1;
    animation-fill-mode:forwards;
-   animation-duration:1.4s;
+   animation-duration:0.8s;
   }
  
 .fade-in.delayed {
-  animation-delay: 0.8s;
+  animation-delay: 0.4s;
 }
 
 .fade-in.delayed-2 {
-  animation-delay: 2.6s;
+  animation-delay: 1.6s;
 }
