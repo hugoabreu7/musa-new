@@ -16,13 +16,13 @@
           animation: fadeIn ease-in 1;
   -webkit-animation-fill-mode: forwards;
           animation-fill-mode: forwards;
-  -webkit-animation-duration: 1.4s;
-          animation-duration: 1.4s; }
+  -webkit-animation-duration: 0.8s;
+          animation-duration: 0.8s; }
 
 .fade-in.delayed {
-  -webkit-animation-delay: 0.8s;
-          animation-delay: 0.8s; }
+  -webkit-animation-delay: 0.4s;
+          animation-delay: 0.4s; }
 
 .fade-in.delayed-2 {
-  -webkit-animation-delay: 2.6s;
-          animation-delay: 2.6s; }
+  -webkit-animation-delay: 1.6s;
+          animation-delay: 1.6s; }
